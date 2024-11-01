@@ -2,7 +2,6 @@
 
 ![2pac 4 lyfe](https://i.imgur.com/Ch0Rngc.png)
 
-if you need help add me on discord my username is: m0neymack
 ------------------------------------------------------------------------------------------------------------------
 ## tutorial
 
