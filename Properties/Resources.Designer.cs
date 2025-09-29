@@ -10,8 +10,8 @@
 
 namespace _2pacalypse.Properties {
     using System;
-    
-    
+
+
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -57,6 +57,16 @@ namespace _2pacalypse.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap button1_Image {
+            get {
+                object obj = ResourceManager.GetObject("button1.Image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         

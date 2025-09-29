@@ -110,5 +110,15 @@ namespace _2pacalypse
             button2.Visible = false;
             button3.Visible = true;
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
